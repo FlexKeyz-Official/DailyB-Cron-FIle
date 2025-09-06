@@ -3,7 +3,7 @@
 $host = 'sql8.freesqldatabase.com';        // or your server IP
 $db   = 'sql8797527';        // your database name
 $user = 'sql8797527';     // your DB username
-$pass = 4Rc2WYyR3F';       // your DB password
+$pass = '4Rc2WYyR3F';       // your DB password
 $charset = 'utf8mb4';
 
 // Set DSN (Data Source Name)
