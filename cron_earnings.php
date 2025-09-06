@@ -17,8 +17,9 @@ echo json_encode([
 ]);
 flush();
 
-require_once __DIR__ . '/../config/db.php';
-require_once __DIR__ . '/../includes/wallet_sync.php';
+require_once __DIR__ . '/config/db.php';
+require_once __DIR__ . '/includes/wallet_sync.php';
+
 
 try {
     // Fetch active subscriptions
