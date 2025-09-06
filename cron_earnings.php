@@ -1,4 +1,4 @@
- <?php
+<?php
 // api/cron_earnings.php
 // Open API to trigger hourly earnings (no token required)
 
