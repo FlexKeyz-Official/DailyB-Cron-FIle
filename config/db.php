@@ -1,9 +1,9 @@
  <?php
 // Database configuration
-$host = 'sql200.infinityfree.com';        // or your server IP
-$db   = 'if0_39800294_dailybred';        // your database name
-$user = 'if0_39800294';     // your DB username
-$pass = '0246570672';       // your DB password
+$host = 'sql8.freesqldatabase.com';        // or your server IP
+$db   = 'sql8797527';        // your database name
+$user = 'sql8797527';     // your DB username
+$pass = 4Rc2WYyR3F';       // your DB password
 $charset = 'utf8mb4';
 
 // Set DSN (Data Source Name)
